@@ -5,12 +5,14 @@ Here, we are to migirate the work for ICML which used AIRSIM to ROS environment 
 
 The first implementation of the tracking bounding box is as
 
-[![DEMO01](Capture1.jpg){:height="36px" width="36px"}](https://youtu.be/hhnqgsRQmpE)
 
 
-[![DEMO01](Capture2.jpg)](https://youtu.be/hhnqgsRQmpE)
 
-[![DEMO01](Capture3.jpg)](https://youtu.be/hhnqgsRQmpE)
+[<img src="Capture1.jpg" width="500">](https://youtu.be/bsQUdH400fI)
 
-[![DEMO01](thumbnail.jpg)](https://youtu.be/hhnqgsRQmpE)
+[<img src="Capture2.jpg" width="500">](https://youtu.be/FvyvWEMjiy0)
+
+[<img src="Capture3.jpg" width="500">](https://youtu.be/BZydqH1fNEc)
+
+[<img src="thumbnail.jpg" width="500">](https://youtu.be/hhnqgsRQmpE)
 
