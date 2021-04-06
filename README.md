@@ -11,5 +11,5 @@
 
 ## We aim to carry over the online image attack method to the following robotic platform.
 
-[<img src="thumbnail.jpg" width="7000">](https://youtu.be/hhnqgsRQmpE)
+[<img src="thumbnail.jpg" width="700">](https://youtu.be/hhnqgsRQmpE)
 
