@@ -9,11 +9,6 @@
 [<img src="exp3_png.png" width="500">](https://youtu.be/sQC-uPMsQYY)
 
 
-## We aim to carry over the online image attack method to the following robotic platform.
+## The image attack method was implemented with a small UAV..
 
-[<img src="thumbnail.jpg" width="700">](https://youtu.be/hhnqgsRQmpE)
-
-
-## First image attack with the image stream collected from Tello
-
-[<img src="attacked_image.jpg" width="500">](https://youtu.be/5rEOCGAuvfo)
+[<img src="exp4_png.png" width="900">](https://youtu.be/0f4zvl3XOek)
