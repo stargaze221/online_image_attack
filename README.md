@@ -1,6 +1,6 @@
 # Image Attack to Vision Guided Autonomous Vehicles
 
-## The following three videos demonstrate online image attack
+## The following three videos demonstrate online image attack (click the images for the videos)
 
 [<img src="exp1_png.png" width="500">](https://youtu.be/NzQD_lZaQVs)
 
