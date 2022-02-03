@@ -9,6 +9,6 @@
 [<img src="thumbnails/exp3_png.png" width="500">](https://youtu.be/sQC-uPMsQYY)
 
 
-## The image attack method was implemented with a small UAV..
+## The image attack method was implemented with a small UAV.
 
 [<img src="thumbnails/exp4_png.png" width="900">](https://youtu.be/0f4zvl3XOek)
